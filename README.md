@@ -1,4 +1,4 @@
-# Suprun_E.V.
+# Suprun_E.V
 Mobile development homework
 
 # Start building Flutter Android apps on Windows
